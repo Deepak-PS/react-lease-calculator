@@ -3,6 +3,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
+## Lease Calculator
+
+This application finds the montly rate for the provided interest and duration.
+
 ## Table of Contents
 
 This project provides an UI to find the monthly payment of a lease for the provided interest rate and duration.
